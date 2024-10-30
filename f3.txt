@@ -1,0 +1,4 @@
+La codificación del archivo habrá sido la que tenga por defecto el Sistema
+Operativo, que en el caso de Ubuntu es UTF-8, y en el caso de Windows es
+ISO-8859.
+Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.Contenido para el archivo.
